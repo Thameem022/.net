@@ -1,0 +1,15 @@
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Interface - task/bin/Debug/net6.0/Interface - task
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Interface - task/bin/Debug/net6.0/Interface - task.deps.json
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Interface - task/bin/Debug/net6.0/Interface - task.runtimeconfig.json
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Interface - task/bin/Debug/net6.0/Interface - task.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Interface - task/bin/Debug/net6.0/Interface - task.pdb
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Interface - task/obj/Debug/net6.0/Interface - task.csproj.AssemblyReference.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Interface - task/obj/Debug/net6.0/Interface - task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Interface - task/obj/Debug/net6.0/Interface - task.AssemblyInfoInputs.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Interface - task/obj/Debug/net6.0/Interface - task.AssemblyInfo.cs
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Interface - task/obj/Debug/net6.0/Interface - task.csproj.CoreCompileInputs.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Interface - task/obj/Debug/net6.0/Interface - task.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Interface - task/obj/Debug/net6.0/refint/Interface - task.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Interface - task/obj/Debug/net6.0/Interface - task.pdb
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Interface - task/obj/Debug/net6.0/Interface - task.genruntimeconfig.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Interface - task/obj/Debug/net6.0/ref/Interface - task.dll
