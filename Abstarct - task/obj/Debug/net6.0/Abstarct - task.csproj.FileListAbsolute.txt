@@ -1,0 +1,15 @@
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Abstarct - task/bin/Debug/net6.0/Abstarct - task
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Abstarct - task/bin/Debug/net6.0/Abstarct - task.deps.json
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Abstarct - task/bin/Debug/net6.0/Abstarct - task.runtimeconfig.json
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Abstarct - task/bin/Debug/net6.0/Abstarct - task.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Abstarct - task/bin/Debug/net6.0/Abstarct - task.pdb
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Abstarct - task/obj/Debug/net6.0/Abstarct - task.csproj.AssemblyReference.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Abstarct - task/obj/Debug/net6.0/Abstarct - task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Abstarct - task/obj/Debug/net6.0/Abstarct - task.AssemblyInfoInputs.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Abstarct - task/obj/Debug/net6.0/Abstarct - task.AssemblyInfo.cs
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Abstarct - task/obj/Debug/net6.0/Abstarct - task.csproj.CoreCompileInputs.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Abstarct - task/obj/Debug/net6.0/Abstarct - task.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Abstarct - task/obj/Debug/net6.0/refint/Abstarct - task.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Abstarct - task/obj/Debug/net6.0/Abstarct - task.pdb
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Abstarct - task/obj/Debug/net6.0/Abstarct - task.genruntimeconfig.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Abstarct - task/obj/Debug/net6.0/ref/Abstarct - task.dll
