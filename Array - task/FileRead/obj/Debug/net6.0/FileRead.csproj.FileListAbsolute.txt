@@ -1,0 +1,15 @@
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/FileRead/bin/Debug/net6.0/FileRead
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/FileRead/bin/Debug/net6.0/FileRead.deps.json
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/FileRead/bin/Debug/net6.0/FileRead.runtimeconfig.json
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/FileRead/bin/Debug/net6.0/FileRead.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/FileRead/bin/Debug/net6.0/FileRead.pdb
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/FileRead/obj/Debug/net6.0/FileRead.csproj.AssemblyReference.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/FileRead/obj/Debug/net6.0/FileRead.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/FileRead/obj/Debug/net6.0/FileRead.AssemblyInfoInputs.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/FileRead/obj/Debug/net6.0/FileRead.AssemblyInfo.cs
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/FileRead/obj/Debug/net6.0/FileRead.csproj.CoreCompileInputs.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/FileRead/obj/Debug/net6.0/FileRead.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/FileRead/obj/Debug/net6.0/refint/FileRead.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/FileRead/obj/Debug/net6.0/FileRead.pdb
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/FileRead/obj/Debug/net6.0/FileRead.genruntimeconfig.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/FileRead/obj/Debug/net6.0/ref/FileRead.dll

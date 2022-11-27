@@ -1,0 +1,15 @@
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/IsNumber/bin/Debug/net6.0/IsNumber
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/IsNumber/bin/Debug/net6.0/IsNumber.deps.json
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/IsNumber/bin/Debug/net6.0/IsNumber.runtimeconfig.json
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/IsNumber/bin/Debug/net6.0/IsNumber.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/IsNumber/bin/Debug/net6.0/IsNumber.pdb
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/IsNumber/obj/Debug/net6.0/IsNumber.csproj.AssemblyReference.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/IsNumber/obj/Debug/net6.0/IsNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/IsNumber/obj/Debug/net6.0/IsNumber.AssemblyInfoInputs.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/IsNumber/obj/Debug/net6.0/IsNumber.AssemblyInfo.cs
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/IsNumber/obj/Debug/net6.0/IsNumber.csproj.CoreCompileInputs.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/IsNumber/obj/Debug/net6.0/IsNumber.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/IsNumber/obj/Debug/net6.0/refint/IsNumber.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/IsNumber/obj/Debug/net6.0/IsNumber.pdb
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/IsNumber/obj/Debug/net6.0/IsNumber.genruntimeconfig.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/IsNumber/obj/Debug/net6.0/ref/IsNumber.dll

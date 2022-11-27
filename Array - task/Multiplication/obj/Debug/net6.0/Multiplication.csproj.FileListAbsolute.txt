@@ -1,0 +1,15 @@
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/Multiplication/bin/Debug/net6.0/Multiplication
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/Multiplication/bin/Debug/net6.0/Multiplication.deps.json
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/Multiplication/bin/Debug/net6.0/Multiplication.runtimeconfig.json
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/Multiplication/bin/Debug/net6.0/Multiplication.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/Multiplication/bin/Debug/net6.0/Multiplication.pdb
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/Multiplication/obj/Debug/net6.0/Multiplication.csproj.AssemblyReference.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/Multiplication/obj/Debug/net6.0/Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/Multiplication/obj/Debug/net6.0/Multiplication.AssemblyInfoInputs.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/Multiplication/obj/Debug/net6.0/Multiplication.AssemblyInfo.cs
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/Multiplication/obj/Debug/net6.0/Multiplication.csproj.CoreCompileInputs.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/Multiplication/obj/Debug/net6.0/Multiplication.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/Multiplication/obj/Debug/net6.0/refint/Multiplication.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/Multiplication/obj/Debug/net6.0/Multiplication.pdb
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/Multiplication/obj/Debug/net6.0/Multiplication.genruntimeconfig.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/Multiplication/obj/Debug/net6.0/ref/Multiplication.dll

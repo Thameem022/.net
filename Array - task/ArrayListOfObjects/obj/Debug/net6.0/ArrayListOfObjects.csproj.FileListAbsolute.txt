@@ -1,0 +1,15 @@
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/ArrayListOfObjects/bin/Debug/net6.0/ArrayListOfObjects
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/ArrayListOfObjects/bin/Debug/net6.0/ArrayListOfObjects.deps.json
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/ArrayListOfObjects/bin/Debug/net6.0/ArrayListOfObjects.runtimeconfig.json
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/ArrayListOfObjects/bin/Debug/net6.0/ArrayListOfObjects.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/ArrayListOfObjects/bin/Debug/net6.0/ArrayListOfObjects.pdb
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/ArrayListOfObjects/obj/Debug/net6.0/ArrayListOfObjects.csproj.AssemblyReference.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/ArrayListOfObjects/obj/Debug/net6.0/ArrayListOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/ArrayListOfObjects/obj/Debug/net6.0/ArrayListOfObjects.AssemblyInfoInputs.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/ArrayListOfObjects/obj/Debug/net6.0/ArrayListOfObjects.AssemblyInfo.cs
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/ArrayListOfObjects/obj/Debug/net6.0/ArrayListOfObjects.csproj.CoreCompileInputs.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/ArrayListOfObjects/obj/Debug/net6.0/ArrayListOfObjects.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/ArrayListOfObjects/obj/Debug/net6.0/refint/ArrayListOfObjects.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/ArrayListOfObjects/obj/Debug/net6.0/ArrayListOfObjects.pdb
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/ArrayListOfObjects/obj/Debug/net6.0/ArrayListOfObjects.genruntimeconfig.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/ArrayListOfObjects/obj/Debug/net6.0/ref/ArrayListOfObjects.dll

@@ -1,0 +1,15 @@
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/PrintOnlyEven/bin/Debug/net6.0/PrintOnlyEven
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/PrintOnlyEven/bin/Debug/net6.0/PrintOnlyEven.deps.json
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/PrintOnlyEven/bin/Debug/net6.0/PrintOnlyEven.runtimeconfig.json
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/PrintOnlyEven/bin/Debug/net6.0/PrintOnlyEven.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/PrintOnlyEven/bin/Debug/net6.0/PrintOnlyEven.pdb
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/PrintOnlyEven/obj/Debug/net6.0/PrintOnlyEven.csproj.AssemblyReference.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/PrintOnlyEven/obj/Debug/net6.0/PrintOnlyEven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/PrintOnlyEven/obj/Debug/net6.0/PrintOnlyEven.AssemblyInfoInputs.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/PrintOnlyEven/obj/Debug/net6.0/PrintOnlyEven.AssemblyInfo.cs
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/PrintOnlyEven/obj/Debug/net6.0/PrintOnlyEven.csproj.CoreCompileInputs.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/PrintOnlyEven/obj/Debug/net6.0/PrintOnlyEven.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/PrintOnlyEven/obj/Debug/net6.0/refint/PrintOnlyEven.dll
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/PrintOnlyEven/obj/Debug/net6.0/PrintOnlyEven.pdb
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/PrintOnlyEven/obj/Debug/net6.0/PrintOnlyEven.genruntimeconfig.cache
+/Users/mohammedthameem/Desktop/ASP.net-Training/ASP.net/Array - task/PrintOnlyEven/obj/Debug/net6.0/ref/PrintOnlyEven.dll
